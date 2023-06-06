@@ -11,3 +11,15 @@ This repository is a modified clone of https://github.com/rtqichen/ffjord
 2. The experiments on MNIST and CIFAR10 can be found inside the folder named 'affjord_joint'.
         The default command in the CIFAR10 case is: python train_cnf.py --data cifar10 --dims 64,64,64 --strides 1,1,1,1 --num_blocks 1 --layer_type hyper --multiscale True
         The default command in the MNIST case is:   python train_cnf.py --data mnist --dims 64,64,64 --strides 1,1,1,1 --num_blocks 1 --layer_type hyper --multiscale True
+
+A comparison between FFJORD and AFFJORD on 2D data:
+
+# FFJORD
+<p align="center">
+<img align="middle" src="./assets/ffjord.gif"/>
+</p>
+
+# AFFJORD
+<p align="center">
+<img align="middle" src="./assets/Diffusion_TPSM_2D_200.gif" width="800" height="300" />
+</p>

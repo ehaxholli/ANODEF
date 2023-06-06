@@ -1,4 +1,8 @@
-# ANODEF
+# Enhanced Distribution Modelling via Augmented Architectures For Neural ODE Flows
+
+Code for reproducing the experiments in the paper:
+>Etrit Haxholli, Marco Lorenzi. Enhanced Distribution Modelling via Augmented Architectures For Neural ODE Flows. 2023. [[arXiv:2306.02731]](https://arxiv.org/abs/2306.02731)
+
 This repository is a modified clone of https://github.com/rtqichen/ffjord
 
 1. The experiments on 2D data can be found inside the 'examples' folder in the following folders: 'hash_gaussian' and 'checker_board'.

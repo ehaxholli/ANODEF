@@ -21,5 +21,5 @@ A comparison between FFJORD and AFFJORD on 2D data:
 
 # AFFJORD
 <p align="center">
-<img align="middle" src="./assets/Diffusion_TPSM_2D_200.gif" width="800" height="300" />
+<img align="middle" src="./assets/affjord.gif"/>
 </p>
